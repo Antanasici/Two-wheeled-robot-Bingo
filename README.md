@@ -8,7 +8,7 @@ These systems use the same controllers that can be seen in servo-motors, air-con
 
 To demonstrate the benefits of such a design, I built an upright, self-balancing, two-wheeled robot utilizing an IMU and a PID feedback control loop to maintain stability. While doing this I hope to get a good knowledge on PID control loops, so I can easily use them in future systems.
 
-![alt text](img/main.png "self-balancing robot "Bingo".")
+![alt text](img/main.png "self-balancing robot Bingo")
 
 # How it was done...
 
@@ -116,5 +116,5 @@ I came into this project expecting to build a two-wheeled robot that would balan
    * Add a wireless communication that does not require an internet connection.
    * Use wall following to create a map of surroundings.
 ## Meta
-Antanas Icikovic – [LinkedIn](www.linkedin.com/in/antanas-icikovic) – Find me here!
-Video on [YouTube](www.linkedin.com/in/antanas-icikovic)
+Antanas Icikovic – [LinkedIn](https://www.linkedin.com/in/antanas-icikovic/) – Find me here!
+Video on [YouTube](https://www.youtube.com/watch?v=N4sAeyr7ZtY&t=3s)
