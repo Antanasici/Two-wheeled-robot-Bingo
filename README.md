@@ -117,4 +117,5 @@ I came into this project expecting to build a two-wheeled robot that would balan
    * Use wall following to create a map of surroundings.
 ## Meta
 Antanas Icikovic – [LinkedIn](https://www.linkedin.com/in/antanas-icikovic/) – Find me here!
-Video on [YouTube](https://www.youtube.com/watch?v=N4sAeyr7ZtY&t=3s)
+
+Video of the project on [YouTube](https://www.youtube.com/watch?v=N4sAeyr7ZtY&t=3s)
